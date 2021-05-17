@@ -20,8 +20,11 @@ Depot is also a charging station
 **Solution**
 
 There are three algorithms used. they are,
+
 -Greedy Algorithm
+
 -Tabu Search Algorithm
+
 -Savings Algorithm
 
 Combining these three algorithm an upgraded heuristic approach is generated.
